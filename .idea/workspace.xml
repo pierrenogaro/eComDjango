@@ -1,33 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="11d1d100-1cbd-4a4b-9821-3a2b8b6ca356" name="Changes" comment="" />
+    <list default="true" id="11d1d100-1cbd-4a4b-9821-3a2b8b6ca356" name="Changes" comment="maj">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pierrot69280&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pierrot69280/eComDjango.git&quot;,
+    &quot;accountId&quot;: &quot;3817da1f-4a61-4f43-86d0-d6e79a93b7ee&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2o3Y8aAlg4AK6lAwxNWbmj4JarY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pierre/Documents/django/eComDjango&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website/static/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website/templates" />
+      <recent name="$PROJECT_DIR$/website/templates/website" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="eComDjango" type="Python.DjangoServer" factoryName="Django server">
+      <module name="eComDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,8 +115,209 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730099568065</updated>
-      <workItem from="1730099573530" duration="2000" />
+      <workItem from="1730099573530" duration="3747000" />
+      <workItem from="1730213505364" duration="7687000" />
+      <workItem from="1730276420706" duration="12939000" />
+      <workItem from="1730292513174" duration="4741000" />
+      <workItem from="1730305022369" duration="6618000" />
+      <workItem from="1730315737240" duration="6937000" />
+      <workItem from="1730358914641" duration="10234000" />
+      <workItem from="1730377167069" duration="4862000" />
+      <workItem from="1730383469820" duration="35000" />
+      <workItem from="1730384271812" duration="1070000" />
+      <workItem from="1730456883309" duration="679000" />
+      <workItem from="1730458729809" duration="2855000" />
+      <workItem from="1730567733732" duration="197000" />
+      <workItem from="1730659148996" duration="2620000" />
+      <workItem from="1730706428062" duration="367000" />
+      <workItem from="1730828077696" duration="11000" />
+      <workItem from="1730828099996" duration="11000" />
+      <workItem from="1730896085400" duration="65000" />
+      <workItem from="1730896638484" duration="2287000" />
     </task>
+    <task id="LOCAL-00001" summary="intégration bootstrap &amp; model Product">
+      <option name="closed" value="true" />
+      <created>1730101330417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730101330417</updated>
+    </task>
+    <task id="LOCAL-00002" summary="show &amp; delete Product">
+      <option name="closed" value="true" />
+      <created>1730101951222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730101951222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create &amp; edit Product">
+      <option name="closed" value="true" />
+      <created>1730102520934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730102520934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="//">
+      <option name="closed" value="true" />
+      <created>1730102585051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730102585051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="templates crud">
+      <option name="closed" value="true" />
+      <created>1730103274261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730103274261</updated>
+    </task>
+    <task id="LOCAL-00006" summary="login, register &amp; logout">
+      <option name="closed" value="true" />
+      <created>1730214048213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730214048213</updated>
+    </task>
+    <task id="LOCAL-00007" summary="catégories crud et affichage">
+      <option name="closed" value="true" />
+      <created>1730220113325</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730220113325</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edit templates">
+      <option name="closed" value="true" />
+      <created>1730289086764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730289086764</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add to order">
+      <option name="closed" value="true" />
+      <created>1730289124142</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730289124142</updated>
+    </task>
+    <task id="LOCAL-00010" summary="stripe payment">
+      <option name="closed" value="true" />
+      <created>1730297873490</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730297873490</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Remove create, edit, and delete permissions for Product and Category &amp; add admin">
+      <option name="closed" value="true" />
+      <created>1730307348696</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730307348696</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Remove create, edit, and delete permissions for Product and Category &amp; add admin">
+      <option name="closed" value="true" />
+      <created>1730307406261</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730307406261</updated>
+    </task>
+    <task id="LOCAL-00013" summary="images &amp; templates">
+      <option name="closed" value="true" />
+      <created>1730315801040</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730315801040</updated>
+    </task>
+    <task id="LOCAL-00014" summary="reviews &amp; footer">
+      <option name="closed" value="true" />
+      <created>1730321292247</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730321292247</updated>
+    </task>
+    <task id="LOCAL-00015" summary="history">
+      <option name="closed" value="true" />
+      <created>1730362316768</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730362316768</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Profile">
+      <option name="closed" value="true" />
+      <created>1730372959550</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730372959550</updated>
+    </task>
+    <task id="LOCAL-00017" summary="maj">
+      <option name="closed" value="true" />
+      <created>1730379927326</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730379927326</updated>
+    </task>
+    <task id="LOCAL-00018" summary="maj">
+      <option name="closed" value="true" />
+      <created>1730898754699</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730898754699</updated>
+    </task>
+    <task id="LOCAL-00019" summary="maj">
+      <option name="closed" value="true" />
+      <created>1730898817751</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730898817751</updated>
+    </task>
+    <task id="LOCAL-00020" summary="maj">
+      <option name="closed" value="true" />
+      <created>1730898951507</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730898951507</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intégration bootstrap &amp; model Product" />
+    <MESSAGE value="show &amp; delete Product" />
+    <MESSAGE value="create &amp; edit Product" />
+    <MESSAGE value="//" />
+    <MESSAGE value="templates crud" />
+    <MESSAGE value="login, register &amp; logout" />
+    <MESSAGE value="catégories crud et affichage" />
+    <MESSAGE value="edit templates" />
+    <MESSAGE value="add to order" />
+    <MESSAGE value="stripe payment" />
+    <MESSAGE value="Remove create, edit, and delete permissions for Product and Category &amp; add admin" />
+    <MESSAGE value="images &amp; templates" />
+    <MESSAGE value="reviews &amp; footer" />
+    <MESSAGE value="history" />
+    <MESSAGE value="Profile" />
+    <MESSAGE value="maj" />
+    <option name="LAST_COMMIT_MESSAGE" value="maj" />
   </component>
 </project>
